@@ -1,0 +1,37 @@
+[
+{
+  "directory": "B:/works/Hassan/Homeworks/OS/New folder/cpu_scheduling/build",
+  "command": "D:/Program/mingw/bin/g++.exe   -g -o CMakeFiles/CPU_Scheduling.dir/Bases/Process.cpp.obj -c \"B:/works/Hassan/Homeworks/OS/New folder/cpu_scheduling/Bases/Process.cpp\"",
+  "file": "B:/works/Hassan/Homeworks/OS/New folder/cpu_scheduling/Bases/Process.cpp"
+},
+{
+  "directory": "B:/works/Hassan/Homeworks/OS/New folder/cpu_scheduling/build",
+  "command": "D:/Program/mingw/bin/g++.exe   -g -o CMakeFiles/CPU_Scheduling.dir/Bases/scheduler.cpp.obj -c \"B:/works/Hassan/Homeworks/OS/New folder/cpu_scheduling/Bases/scheduler.cpp\"",
+  "file": "B:/works/Hassan/Homeworks/OS/New folder/cpu_scheduling/Bases/scheduler.cpp"
+},
+{
+  "directory": "B:/works/Hassan/Homeworks/OS/New folder/cpu_scheduling/build",
+  "command": "D:/Program/mingw/bin/g++.exe   -g -o CMakeFiles/CPU_Scheduling.dir/FCFS/FCFS.cpp.obj -c \"B:/works/Hassan/Homeworks/OS/New folder/cpu_scheduling/FCFS/FCFS.cpp\"",
+  "file": "B:/works/Hassan/Homeworks/OS/New folder/cpu_scheduling/FCFS/FCFS.cpp"
+},
+{
+  "directory": "B:/works/Hassan/Homeworks/OS/New folder/cpu_scheduling/build",
+  "command": "D:/Program/mingw/bin/g++.exe   -g -o CMakeFiles/CPU_Scheduling.dir/TSJF/SJF.cpp.obj -c \"B:/works/Hassan/Homeworks/OS/New folder/cpu_scheduling/TSJF/SJF.cpp\"",
+  "file": "B:/works/Hassan/Homeworks/OS/New folder/cpu_scheduling/TSJF/SJF.cpp"
+},
+{
+  "directory": "B:/works/Hassan/Homeworks/OS/New folder/cpu_scheduling/build",
+  "command": "D:/Program/mingw/bin/g++.exe   -g -o CMakeFiles/CPU_Scheduling.dir/RR/RR.cpp.obj -c \"B:/works/Hassan/Homeworks/OS/New folder/cpu_scheduling/RR/RR.cpp\"",
+  "file": "B:/works/Hassan/Homeworks/OS/New folder/cpu_scheduling/RR/RR.cpp"
+},
+{
+  "directory": "B:/works/Hassan/Homeworks/OS/New folder/cpu_scheduling/build",
+  "command": "D:/Program/mingw/bin/g++.exe   -g -o CMakeFiles/CPU_Scheduling.dir/Priority/Priority.cpp.obj -c \"B:/works/Hassan/Homeworks/OS/New folder/cpu_scheduling/Priority/Priority.cpp\"",
+  "file": "B:/works/Hassan/Homeworks/OS/New folder/cpu_scheduling/Priority/Priority.cpp"
+},
+{
+  "directory": "B:/works/Hassan/Homeworks/OS/New folder/cpu_scheduling/build",
+  "command": "D:/Program/mingw/bin/g++.exe   -g -o CMakeFiles/CPU_Scheduling.dir/main.cpp.obj -c \"B:/works/Hassan/Homeworks/OS/New folder/cpu_scheduling/main.cpp\"",
+  "file": "B:/works/Hassan/Homeworks/OS/New folder/cpu_scheduling/main.cpp"
+}
+]
